@@ -1,0 +1,19 @@
+name: Keep Discord Bot Alive
+on:
+  schedule:
+    # Runs every 3 minutes
+    - cron: '*/3 * * * *'
+  workflow_dispatch: # Allows manual triggering
+jobs:
+  keep-alive:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Ping Replit Bot
+      run: |
+        echo "Pinging Discord bot to keep it alive..."
+        curl -s -o /dev/null -w "Status: %{http_code}\n" \
+          --user-agent "GitHub-Actions-KeepAlive/1.0" \
+          --max-time 10 \
+          https://6dc7fcd7-fa7a-435b-a75b-76c5d247f2b7-00-3g1sp9rx85c8e.spock.replit.dev/ping
+        echo "Ping completed at $(date)"
