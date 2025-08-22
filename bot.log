@@ -1,0 +1,735 @@
+2025-08-22 15:21:39,205 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 15:21:39,206 - discord_bot - ERROR - DISCORD_TOKEN not found in environment variables!
+2025-08-22 15:21:54,693 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 15:21:54,694 - discord_bot - ERROR - DISCORD_TOKEN not found in environment variables!
+2025-08-22 15:23:10,886 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 15:23:10,886 - discord.client - INFO - logging in using static token
+2025-08-22 15:23:11,341 - discord_bot - INFO - Bot is starting up...
+2025-08-22 15:23:11,804 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 15:23:11,829 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 15:23:11,830 - discord.client - INFO - logging in using static token
+2025-08-22 15:23:12,135 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: bf94fc7d9a6a2a029d847a1f0d1fdaae).
+2025-08-22 15:23:12,287 - discord_bot - INFO - Bot is starting up...
+2025-08-22 15:23:14,164 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 15:23:14,164 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 15:24:11,654 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 15:24:11,956 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2e181ebeba5cc6524509480ca3bbf2f9).
+2025-08-22 15:24:13,972 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 15:24:13,972 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 15:28:10,897 - discord_bot - INFO - Keep alive ping
+2025-08-22 15:28:11,864 - discord_bot - INFO - Keep alive ping
+2025-08-22 15:29:52,732 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 15:29:52,734 - discord.client - INFO - logging in using static token
+2025-08-22 15:29:53,206 - discord_bot - INFO - Bot is starting up...
+2025-08-22 15:29:53,464 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 15:29:54,030 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8c572f5a3d577358b1066842beb5067b).
+2025-08-22 15:29:56,066 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 15:29:56,067 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 15:30:14,491 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 15:30:14,493 - discord.client - INFO - logging in using static token
+2025-08-22 15:30:15,100 - discord_bot - INFO - Bot is starting up...
+2025-08-22 15:30:18,899 - discord_bot - INFO - Button interaction from izanari99: {'id': 2, 'custom_id': 'announcement_button', 'component_type': 2}
+2025-08-22 15:30:19,106 - discord_bot - ERROR - Channel 0 not found
+2025-08-22 15:30:26,063 - discord_bot - INFO - Button interaction from ryuukkkkk: {'id': 5, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 15:30:26,282 - discord_bot - ERROR - Channel 0 not found
+2025-08-22 15:30:29,727 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 15:30:29,729 - discord.client - INFO - logging in using static token
+2025-08-22 15:30:30,176 - discord_bot - INFO - Bot is starting up...
+2025-08-22 15:31:23,546 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 15:31:23,940 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ab54ce4219a89ccef612e7fc145bbc21).
+2025-08-22 15:31:25,966 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 15:31:25,966 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 15:32:12,043 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 15:32:12,044 - discord.client - INFO - logging in using static token
+2025-08-22 15:32:12,500 - discord_bot - INFO - Bot is starting up...
+2025-08-22 15:32:12,745 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 15:32:13,110 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5c7000e85f9c884385b420ef12329a5b).
+2025-08-22 15:32:15,124 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 15:32:15,124 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 15:34:34,732 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 15:34:34,733 - discord.client - INFO - logging in using static token
+2025-08-22 15:34:35,217 - discord_bot - INFO - Bot is starting up...
+2025-08-22 15:34:35,476 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 15:34:35,815 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d362da58fce5f91572ef867332ee25a1).
+2025-08-22 15:34:37,824 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 15:34:37,824 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 15:35:51,909 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 15:35:51,910 - discord.client - INFO - logging in using static token
+2025-08-22 15:35:52,326 - discord_bot - INFO - Bot is starting up...
+2025-08-22 15:35:52,592 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 15:35:52,901 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5292c08f32d91c497482d2c0a8a0fe96).
+2025-08-22 15:35:54,908 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 15:35:54,908 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 15:36:15,747 - discord_bot - INFO - Button interaction from izanari99: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 15:36:16,364 - discord_bot - INFO - Message sent by izanari99 to channel ⚠•「𝐏𝐢𝐧𝐠-𝐀𝐭𝐭𝐚𝐪𝐮𝐞-𝐏𝐞𝐫𝐜𝐞𝐩𝐭𝐞𝐮𝐫」 (1340822272956567572)
+2025-08-22 15:37:43,296 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 15:37:43,297 - discord.client - INFO - logging in using static token
+2025-08-22 15:37:43,763 - discord_bot - INFO - Bot is starting up...
+2025-08-22 15:37:44,067 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 15:37:44,410 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7a3628568115491e78de751d3d82af5b).
+2025-08-22 15:37:46,415 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 15:37:46,415 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 15:38:06,481 - discord_bot - INFO - Button interaction from izanari99: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 15:38:06,987 - discord_bot - INFO - Message sent by izanari99 to channel ⚠•「𝐀𝐭𝐭𝐚𝐪𝐮𝐞-𝐏𝐞𝐫𝐜𝐞𝐩𝐭𝐞𝐮𝐫」 (1408473953277841570)
+2025-08-22 15:39:39,316 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 15:39:39,317 - discord.client - INFO - logging in using static token
+2025-08-22 15:39:39,887 - discord_bot - INFO - Bot is starting up...
+2025-08-22 15:39:40,156 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 15:39:40,505 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d88e172671fbcc642a42670c7872ed3e).
+2025-08-22 15:39:42,510 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 15:39:42,510 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 15:40:06,963 - discord_bot - INFO - Button interaction from izanari99: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 15:40:07,844 - discord_bot - INFO - Message sent by izanari99 to channel ⚠•「𝐀𝐭𝐭𝐚𝐪𝐮𝐞-𝐏𝐞𝐫𝐜𝐞𝐩𝐭𝐞𝐮𝐫」 (1408473953277841570)
+2025-08-22 15:42:08,125 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 15:42:08,126 - discord.client - INFO - logging in using static token
+2025-08-22 15:42:08,625 - discord_bot - INFO - Bot is starting up...
+2025-08-22 15:42:09,181 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 15:42:09,514 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4e5bef929af84529e63a78b873cf74e8).
+2025-08-22 15:42:11,527 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 15:42:11,527 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 15:44:17,818 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 15:44:17,819 - discord.client - INFO - logging in using static token
+2025-08-22 15:44:18,329 - discord_bot - INFO - Bot is starting up...
+2025-08-22 15:44:18,705 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 15:44:19,008 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 507b5ac6043a57562049fef5167bd469).
+2025-08-22 15:44:21,016 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 15:44:21,016 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 15:44:31,949 - discord_bot - INFO - Button interaction from izanari99: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 15:44:32,464 - discord_bot - INFO - Message sent by izanari99 to channel ⚠•「𝐀𝐭𝐭𝐚𝐪𝐮𝐞-𝐏𝐞𝐫𝐜𝐞𝐩𝐭𝐞𝐮𝐫」 (1408473953277841570)
+2025-08-22 15:49:17,830 - discord_bot - INFO - Keep alive ping
+2025-08-22 15:50:54,459 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 15:50:54,460 - discord.client - INFO - logging in using static token
+2025-08-22 15:50:55,344 - discord_bot - INFO - Bot is starting up...
+2025-08-22 15:50:55,704 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 15:50:56,280 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 22ea912d90ba0db75d95b61ee8ae1728).
+2025-08-22 15:50:58,295 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 15:50:58,295 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 15:52:29,090 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 15:52:29,092 - discord.client - INFO - logging in using static token
+2025-08-22 15:52:29,622 - discord_bot - INFO - Bot is starting up...
+2025-08-22 15:52:29,861 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 15:52:30,171 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 410ce5a9dcdc317d0972b6e954bea97b).
+2025-08-22 15:52:32,177 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 15:52:32,177 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 15:55:51,021 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 15:55:51,028 - discord.client - INFO - logging in using static token
+2025-08-22 15:55:51,565 - discord_bot - INFO - Bot is starting up...
+2025-08-22 15:55:52,005 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 15:55:52,398 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5e62587f7eab9ba348194ae8161cdc4d).
+2025-08-22 15:55:54,411 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 15:55:54,411 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 16:00:51,040 - discord_bot - INFO - Keep alive ping
+2025-08-22 16:05:51,062 - discord_bot - INFO - Keep alive ping
+2025-08-22 16:10:51,088 - discord_bot - INFO - Keep alive ping
+2025-08-22 16:15:51,092 - discord_bot - INFO - Keep alive ping
+2025-08-22 16:20:51,106 - discord_bot - INFO - Keep alive ping
+2025-08-22 16:25:51,132 - discord_bot - INFO - Keep alive ping
+2025-08-22 16:30:51,170 - discord_bot - INFO - Keep alive ping
+2025-08-22 16:35:51,177 - discord_bot - INFO - Keep alive ping
+2025-08-22 16:40:51,195 - discord_bot - INFO - Keep alive ping
+2025-08-22 16:49:58,174 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 16:49:58,267 - discord.client - INFO - logging in using static token
+2025-08-22 16:49:58,690 - discord_bot - INFO - Bot is starting up...
+2025-08-22 16:49:59,013 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 16:49:59,352 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5ccca606a3673776e86efaed9fea5d05).
+2025-08-22 16:50:01,365 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 16:50:01,365 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 16:52:48,373 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 16:52:48,386 - discord.client - INFO - logging in using static token
+2025-08-22 16:52:48,859 - discord_bot - INFO - Bot is starting up...
+2025-08-22 16:52:49,104 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 16:52:49,414 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 297bcef37995c0a997620aeb7b816029).
+2025-08-22 16:52:51,431 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 16:52:51,431 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 16:57:48,397 - discord_bot - INFO - Keep alive ping
+2025-08-22 17:02:48,419 - discord_bot - INFO - Keep alive ping
+2025-08-22 17:05:57,233 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 17:05:57,235 - discord.client - INFO - logging in using static token
+2025-08-22 17:05:57,791 - discord_bot - INFO - Bot is starting up...
+2025-08-22 17:05:58,052 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 17:05:58,354 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ccaf6c957de519e1e918d964f470760b).
+2025-08-22 17:06:00,361 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 17:06:00,361 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 17:10:57,246 - discord_bot - INFO - Keep alive ping
+2025-08-22 17:18:52,132 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 17:18:52,228 - discord.client - INFO - logging in using static token
+2025-08-22 17:18:53,405 - discord_bot - INFO - Bot is starting up...
+2025-08-22 17:18:53,672 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 17:18:54,261 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: dd40a0ad1c1dc291b4e49cc0df5313ea).
+2025-08-22 17:18:56,266 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 17:18:56,266 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 17:23:52,239 - discord_bot - INFO - Keep alive ping
+2025-08-22 17:27:45,261 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 17:27:45,265 - discord.client - INFO - logging in using static token
+2025-08-22 17:27:45,814 - discord_bot - INFO - Bot is starting up...
+2025-08-22 17:27:46,116 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 17:27:46,617 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1087b1290f5c6c6b430a562f0f5ea7a2).
+2025-08-22 17:27:48,625 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 17:27:48,625 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 17:28:13,024 - discord.app_commands.tree - ERROR - Ignoring exception in command 'buttons'
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot.py", line 162, in buttons_slash
+    await interaction.response.send_message(embed=embed, view=view)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/interactions.py", line 1054, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'buttons' raised an exception: HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2025-08-22 17:28:52,252 - discord_bot - INFO - Keep alive ping
+2025-08-22 17:30:52,373 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 17:30:52,375 - discord.client - INFO - logging in using static token
+2025-08-22 17:30:53,121 - discord_bot - INFO - Bot is starting up...
+2025-08-22 17:30:53,524 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 17:30:54,207 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ffd77a06c52ee321cc50c5503cade069).
+2025-08-22 17:30:56,226 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 17:30:56,226 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 17:31:35,577 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 17:31:35,578 - discord.client - INFO - logging in using static token
+2025-08-22 17:31:36,142 - discord_bot - INFO - Bot is starting up...
+2025-08-22 17:31:36,483 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 17:31:36,842 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 86cb0a418d6497b49d7c7ee468418174).
+2025-08-22 17:31:38,847 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 17:31:38,847 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 17:34:57,204 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 17:34:57,205 - discord.client - INFO - logging in using static token
+2025-08-22 17:34:57,723 - discord_bot - INFO - Bot is starting up...
+2025-08-22 17:34:57,966 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 17:34:58,359 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 745d26f5258e414f2a9ceac5d6cff61a).
+2025-08-22 17:35:00,370 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 17:35:00,370 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 17:36:35,581 - discord_bot - INFO - Keep alive ping
+2025-08-22 17:36:49,143 - discord.app_commands.tree - ERROR - Ignoring exception in command 'buttons'
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot.py", line 162, in buttons_slash
+    await interaction.response.send_message(embed=embed, view=view)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/interactions.py", line 1054, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'buttons' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2025-08-22 17:37:11,398 - discord_bot - INFO - Button interaction from homelander_______: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 17:37:11,428 - discord_bot - INFO - Button interaction from homelander_______: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 17:37:11,892 - discord_bot - INFO - Message sent by homelander_______ to channel ⚠•「𝐀𝐭𝐭𝐚𝐪𝐮𝐞-𝐏𝐞𝐫𝐜𝐞𝐩𝐭𝐞𝐮𝐫」 (1408473953277841570)
+2025-08-22 17:37:12,166 - discord.ui.view - ERROR - Ignoring exception in view <MessageButtonView timeout=None children=1> for item <Button style=<ButtonStyle.danger: 4> url=None disabled=False label='🚨 Attaque Percepteur🚨' emoji=None row=None sku_id=None id=None>
+Traceback (most recent call last):
+  File "/home/runner/workspace/views.py", line 94, in send_message_to_channel
+    await interaction.response.send_message(embed=success_embed, ephemeral=True)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/interactions.py", line 1054, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ui/view.py", line 555, in _scheduled_task
+    await item.callback(interaction)
+  File "/home/runner/workspace/views.py", line 21, in alert_button
+    await self.send_message_to_channel(
+  File "/home/runner/workspace/views.py", line 107, in send_message_to_channel
+    await interaction.response.send_message(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/interactions.py", line 1054, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2025-08-22 17:37:30,203 - discord_bot - INFO - Button interaction from ryuukkkkk: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 17:37:30,205 - discord_bot - INFO - Button interaction from ryuukkkkk: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 17:37:30,809 - discord_bot - INFO - Message sent by ryuukkkkk to channel ⚠•「𝐀𝐭𝐭𝐚𝐪𝐮𝐞-𝐏𝐞𝐫𝐜𝐞𝐩𝐭𝐞𝐮𝐫」 (1408473953277841570)
+2025-08-22 17:37:30,853 - discord.ui.view - ERROR - Ignoring exception in view <MessageButtonView timeout=None children=1> for item <Button style=<ButtonStyle.danger: 4> url=None disabled=False label='🚨 Attaque Percepteur🚨' emoji=None row=None sku_id=None id=None>
+Traceback (most recent call last):
+  File "/home/runner/workspace/views.py", line 94, in send_message_to_channel
+    await interaction.response.send_message(embed=success_embed, ephemeral=True)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/interactions.py", line 1054, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ui/view.py", line 555, in _scheduled_task
+    await item.callback(interaction)
+  File "/home/runner/workspace/views.py", line 21, in alert_button
+    await self.send_message_to_channel(
+  File "/home/runner/workspace/views.py", line 107, in send_message_to_channel
+    await interaction.response.send_message(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/interactions.py", line 1054, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2025-08-22 17:37:35,340 - discord_bot - INFO - Button interaction from ryuukkkkk: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 17:37:35,343 - discord_bot - INFO - Button interaction from ryuukkkkk: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 17:37:35,858 - discord_bot - INFO - Message sent by ryuukkkkk to channel ⚠•「𝐀𝐭𝐭𝐚𝐪𝐮𝐞-𝐏𝐞𝐫𝐜𝐞𝐩𝐭𝐞𝐮𝐫」 (1408473953277841570)
+2025-08-22 17:37:35,977 - discord.ui.view - ERROR - Ignoring exception in view <MessageButtonView timeout=None children=1> for item <Button style=<ButtonStyle.danger: 4> url=None disabled=False label='🚨 Attaque Percepteur🚨' emoji=None row=None sku_id=None id=None>
+Traceback (most recent call last):
+  File "/home/runner/workspace/views.py", line 94, in send_message_to_channel
+    await interaction.response.send_message(embed=success_embed, ephemeral=True)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/interactions.py", line 1054, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ui/view.py", line 555, in _scheduled_task
+    await item.callback(interaction)
+  File "/home/runner/workspace/views.py", line 21, in alert_button
+    await self.send_message_to_channel(
+  File "/home/runner/workspace/views.py", line 107, in send_message_to_channel
+    await interaction.response.send_message(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/interactions.py", line 1054, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2025-08-22 17:37:38,788 - discord_bot - INFO - Button interaction from ryuukkkkk: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 17:37:38,790 - discord_bot - INFO - Button interaction from ryuukkkkk: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 17:37:39,244 - discord_bot - INFO - Message sent by ryuukkkkk to channel ⚠•「𝐀𝐭𝐭𝐚𝐪𝐮𝐞-𝐏𝐞𝐫𝐜𝐞𝐩𝐭𝐞𝐮𝐫」 (1408473953277841570)
+2025-08-22 17:37:39,437 - discord.ui.view - ERROR - Ignoring exception in view <MessageButtonView timeout=None children=1> for item <Button style=<ButtonStyle.danger: 4> url=None disabled=False label='🚨 Attaque Percepteur🚨' emoji=None row=None sku_id=None id=None>
+Traceback (most recent call last):
+  File "/home/runner/workspace/views.py", line 94, in send_message_to_channel
+    await interaction.response.send_message(embed=success_embed, ephemeral=True)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/interactions.py", line 1054, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ui/view.py", line 555, in _scheduled_task
+    await item.callback(interaction)
+  File "/home/runner/workspace/views.py", line 21, in alert_button
+    await self.send_message_to_channel(
+  File "/home/runner/workspace/views.py", line 107, in send_message_to_channel
+    await interaction.response.send_message(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/interactions.py", line 1054, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2025-08-22 17:37:48,761 - discord_bot - INFO - Button interaction from ryuukkkkk: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 17:37:48,764 - discord_bot - INFO - Button interaction from ryuukkkkk: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 17:37:49,280 - discord_bot - INFO - Message sent by ryuukkkkk to channel ⚠•「𝐀𝐭𝐭𝐚𝐪𝐮𝐞-𝐏𝐞𝐫𝐜𝐞𝐩𝐭𝐞𝐮𝐫」 (1408473953277841570)
+2025-08-22 17:37:50,001 - discord.ui.view - ERROR - Ignoring exception in view <MessageButtonView timeout=None children=1> for item <Button style=<ButtonStyle.danger: 4> url=None disabled=False label='🚨 Attaque Percepteur🚨' emoji=None row=None sku_id=None id=None>
+Traceback (most recent call last):
+  File "/home/runner/workspace/views.py", line 94, in send_message_to_channel
+    await interaction.response.send_message(embed=success_embed, ephemeral=True)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/interactions.py", line 1054, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ui/view.py", line 555, in _scheduled_task
+    await item.callback(interaction)
+  File "/home/runner/workspace/views.py", line 21, in alert_button
+    await self.send_message_to_channel(
+  File "/home/runner/workspace/views.py", line 107, in send_message_to_channel
+    await interaction.response.send_message(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/interactions.py", line 1054, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2025-08-22 17:39:15,377 - discord_bot - INFO - Button interaction from izanari99: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 17:39:15,381 - discord_bot - INFO - Button interaction from izanari99: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 17:39:16,105 - discord_bot - INFO - Message sent by izanari99 to channel ⚠•「𝐀𝐭𝐭𝐚𝐪𝐮𝐞-𝐏𝐞𝐫𝐜𝐞𝐩𝐭𝐞𝐮𝐫」 (1408473953277841570)
+2025-08-22 17:39:16,179 - discord.ui.view - ERROR - Ignoring exception in view <MessageButtonView timeout=None children=1> for item <Button style=<ButtonStyle.danger: 4> url=None disabled=False label='🚨 Attaque Percepteur🚨' emoji=None row=None sku_id=None id=None>
+Traceback (most recent call last):
+  File "/home/runner/workspace/views.py", line 94, in send_message_to_channel
+    await interaction.response.send_message(embed=success_embed, ephemeral=True)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/interactions.py", line 1054, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ui/view.py", line 555, in _scheduled_task
+    await item.callback(interaction)
+  File "/home/runner/workspace/views.py", line 21, in alert_button
+    await self.send_message_to_channel(
+  File "/home/runner/workspace/views.py", line 107, in send_message_to_channel
+    await interaction.response.send_message(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/interactions.py", line 1054, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2025-08-22 17:39:18,445 - discord_bot - INFO - Button interaction from ryuukkkkk: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 17:39:18,456 - discord_bot - INFO - Button interaction from ryuukkkkk: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 17:39:18,905 - discord_bot - INFO - Message sent by ryuukkkkk to channel ⚠•「𝐀𝐭𝐭𝐚𝐪𝐮𝐞-𝐏𝐞𝐫𝐜𝐞𝐩𝐭𝐞𝐮𝐫」 (1408473953277841570)
+2025-08-22 17:39:19,158 - discord.ui.view - ERROR - Ignoring exception in view <MessageButtonView timeout=None children=1> for item <Button style=<ButtonStyle.danger: 4> url=None disabled=False label='🚨 Attaque Percepteur🚨' emoji=None row=None sku_id=None id=None>
+Traceback (most recent call last):
+  File "/home/runner/workspace/views.py", line 94, in send_message_to_channel
+    await interaction.response.send_message(embed=success_embed, ephemeral=True)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/interactions.py", line 1054, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ui/view.py", line 555, in _scheduled_task
+    await item.callback(interaction)
+  File "/home/runner/workspace/views.py", line 21, in alert_button
+    await self.send_message_to_channel(
+  File "/home/runner/workspace/views.py", line 107, in send_message_to_channel
+    await interaction.response.send_message(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/interactions.py", line 1054, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/webhook/async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2025-08-22 17:39:57,217 - discord_bot - INFO - Keep alive ping
+2025-08-22 17:42:39,371 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 17:42:39,465 - discord.client - INFO - logging in using static token
+2025-08-22 17:42:40,088 - discord_bot - INFO - Bot is starting up...
+2025-08-22 17:42:40,457 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 17:42:40,817 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 09f3fe72957dbc258f5ba2c13cf9c301).
+2025-08-22 17:42:42,831 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 17:42:42,831 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 17:45:31,996 - discord_bot - INFO - Button interaction from izanari99: {'id': 2, 'custom_id': 'alert_button', 'component_type': 2}
+2025-08-22 17:45:32,511 - discord_bot - INFO - Message sent by izanari99 to channel ⚠•「𝐀𝐭𝐭𝐚𝐪𝐮𝐞-𝐏𝐞𝐫𝐜𝐞𝐩𝐭𝐞𝐮𝐫」 (1408473953277841570)
+2025-08-22 17:47:39,476 - discord_bot - INFO - Keep alive ping
+2025-08-22 17:52:39,497 - discord_bot - INFO - Keep alive ping
+2025-08-22 17:55:24,761 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 17:55:24,940 - discord.client - INFO - logging in using static token
+2025-08-22 17:55:25,493 - discord_bot - INFO - Bot is starting up...
+2025-08-22 17:55:25,918 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 17:55:26,255 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 56b669aec38e319bf5571be0995ed86a).
+2025-08-22 17:55:28,348 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 17:55:28,349 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 18:00:24,950 - discord_bot - INFO - Keep alive ping
+2025-08-22 18:05:24,971 - discord_bot - INFO - Keep alive ping
+2025-08-22 18:10:25,005 - discord_bot - INFO - Keep alive ping
+2025-08-22 18:12:46,598 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 18:12:46,600 - discord.client - INFO - logging in using static token
+2025-08-22 18:12:47,078 - discord_bot - INFO - Bot is starting up...
+2025-08-22 18:12:47,361 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 18:12:47,692 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6e21028850fe24c81a34960d5232c7b5).
+2025-08-22 18:12:49,699 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 18:12:49,699 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 18:16:41,832 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 18:16:41,838 - discord.client - INFO - logging in using static token
+2025-08-22 18:16:41,849 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.76.162:5000
+2025-08-22 18:16:41,849 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-22 18:16:42,295 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.76.162
+2025-08-22 18:16:42,296 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:16:42] "GET / HTTP/1.1" 200 -
+2025-08-22 18:16:42,339 - discord_bot - INFO - Bot is starting up...
+2025-08-22 18:16:42,555 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.76.162
+2025-08-22 18:16:42,556 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:16:42] "GET / HTTP/1.1" 200 -
+2025-08-22 18:16:42,632 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 18:16:42,658 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.76.162
+2025-08-22 18:16:42,659 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:16:42] "GET / HTTP/1.1" 200 -
+2025-08-22 18:16:42,660 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.76.162
+2025-08-22 18:16:42,660 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:16:42] "GET / HTTP/1.1" 200 -
+2025-08-22 18:16:43,038 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2d937f3213143d5dbce8388926f89a63).
+2025-08-22 18:16:45,046 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 18:16:45,046 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 18:17:03,656 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:17:03 - Cron-Job actif!
+2025-08-22 18:17:03,656 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:17:03] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:18:07,775 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:18:07 - Cron-Job actif!
+2025-08-22 18:18:07,775 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:18:07] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:19:03,632 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:19:03 - Cron-Job actif!
+2025-08-22 18:19:03,632 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:19:03] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:19:19,421 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:19:19 - Cron-Job actif!
+2025-08-22 18:19:19,421 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:19:19] "HEAD /ping HTTP/1.1" 200 -
+2025-08-22 18:20:14,506 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:20:14 - Cron-Job actif!
+2025-08-22 18:20:14,507 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:20:14] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:20:17,665 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:20:17 - Cron-Job actif!
+2025-08-22 18:20:17,665 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:20:17] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:20:31,077 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:20:31 - Cron-Job actif!
+2025-08-22 18:20:31,077 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:20:31] "HEAD /ping HTTP/1.1" 200 -
+2025-08-22 18:21:03,721 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:21:03 - Cron-Job actif!
+2025-08-22 18:21:03,721 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:21:03] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:21:41,849 - discord_bot - INFO - Keep alive ping
+2025-08-22 18:22:12,367 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:22:12 - Cron-Job actif!
+2025-08-22 18:22:12,367 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:22:12] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:23:03,524 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:23:03 - Cron-Job actif!
+2025-08-22 18:23:03,525 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:23:03] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:24:08,951 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:24:08 - Cron-Job actif!
+2025-08-22 18:24:08,951 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:24:08] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:24:23,350 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:24:23 - Cron-Job actif!
+2025-08-22 18:24:23,351 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:24:23] "HEAD /ping HTTP/1.1" 200 -
+2025-08-22 18:25:04,830 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:25:04 - Cron-Job actif!
+2025-08-22 18:25:04,830 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:25:04] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:25:05,727 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:25:05 - Cron-Job actif!
+2025-08-22 18:25:05,727 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:25:05] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:25:35,162 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:25:35 - Cron-Job actif!
+2025-08-22 18:25:35,163 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:25:35] "HEAD /ping HTTP/1.1" 200 -
+2025-08-22 18:26:11,884 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:26:11 - Cron-Job actif!
+2025-08-22 18:26:11,884 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:26:11] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:26:41,871 - discord_bot - INFO - Keep alive ping
+2025-08-22 18:27:03,548 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:27:03 - Cron-Job actif!
+2025-08-22 18:27:03,548 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:27:03] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:28:09,120 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:28:09 - Cron-Job actif!
+2025-08-22 18:28:09,120 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:28:09] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:29:03,759 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:29:03 - Cron-Job actif!
+2025-08-22 18:29:03,760 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:29:03] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:29:27,607 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:29:27 - Cron-Job actif!
+2025-08-22 18:29:27,607 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:29:27] "HEAD /ping HTTP/1.1" 200 -
+2025-08-22 18:30:25,330 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:30:25 - Cron-Job actif!
+2025-08-22 18:30:25,330 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:30:25] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:30:25,549 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:30:25 - Cron-Job actif!
+2025-08-22 18:30:25,549 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:30:25] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:30:39,620 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:30:39 - Cron-Job actif!
+2025-08-22 18:30:39,620 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:30:39] "HEAD /ping HTTP/1.1" 200 -
+2025-08-22 18:31:03,652 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:31:03 - Cron-Job actif!
+2025-08-22 18:31:03,653 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:31:03] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:31:41,905 - discord_bot - INFO - Keep alive ping
+2025-08-22 18:32:13,437 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:32:13 - Cron-Job actif!
+2025-08-22 18:32:13,438 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:32:13] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:33:03,488 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:33:03 - Cron-Job actif!
+2025-08-22 18:33:03,489 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:33:03] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:34:10,384 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:34:10 - Cron-Job actif!
+2025-08-22 18:34:10,384 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:34:10] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:34:31,765 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:34:31 - Cron-Job actif!
+2025-08-22 18:34:31,765 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:34:31] "HEAD /ping HTTP/1.1" 200 -
+2025-08-22 18:35:04,884 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:35:04 - Cron-Job actif!
+2025-08-22 18:35:04,885 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:35:04] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:35:04,957 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:35:04 - Cron-Job actif!
+2025-08-22 18:35:04,957 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:35:04] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:35:43,600 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:35:43 - Cron-Job actif!
+2025-08-22 18:35:43,600 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:35:43] "HEAD /ping HTTP/1.1" 200 -
+2025-08-22 18:36:13,092 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.76.162 à 18:36:13 - Cron-Job actif!
+2025-08-22 18:36:13,093 - werkzeug - INFO - 172.31.76.162 - - [22/Aug/2025 18:36:13] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:38:49,039 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 18:38:49,188 - discord.client - INFO - logging in using static token
+2025-08-22 18:38:49,199 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.102.162:5000
+2025-08-22 18:38:49,199 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-22 18:38:49,647 - discord_bot - INFO - Bot is starting up...
+2025-08-22 18:38:49,929 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 18:38:50,057 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.102.162
+2025-08-22 18:38:50,058 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:38:50] "GET / HTTP/1.1" 200 -
+2025-08-22 18:38:50,179 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.102.162
+2025-08-22 18:38:50,179 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:38:50] "GET / HTTP/1.1" 200 -
+2025-08-22 18:38:50,321 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fb08f5cd088709856f6ad82256d982e5).
+2025-08-22 18:38:52,328 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 18:38:52,328 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 18:39:03,509 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.102.162 à 18:39:03 - Cron-Job actif!
+2025-08-22 18:39:03,509 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:39:03] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:39:35,559 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.102.162 à 18:39:35 - Cron-Job actif!
+2025-08-22 18:39:35,560 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:39:35] "HEAD /ping HTTP/1.1" 200 -
+2025-08-22 18:39:53,087 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.102.162 à 18:39:53 - Cron-Job actif!
+2025-08-22 18:39:53,087 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:39:53] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:39:55,475 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.102.162 à 18:39:55 - Cron-Job actif!
+2025-08-22 18:39:55,475 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:39:55] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:40:13,494 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.102.162 à 18:40:13 - Cron-Job actif!
+2025-08-22 18:40:13,494 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:40:13] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:40:18,784 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.102.162 à 18:40:18 - Cron-Job actif!
+2025-08-22 18:40:18,785 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:40:18] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:40:38,611 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.102.162
+2025-08-22 18:40:38,611 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:40:38] "GET / HTTP/1.1" 200 -
+2025-08-22 18:40:38,779 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.102.162
+2025-08-22 18:40:38,780 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:40:38] "GET / HTTP/1.1" 200 -
+2025-08-22 18:40:47,097 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.102.162 à 18:40:47 - Cron-Job actif!
+2025-08-22 18:40:47,097 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:40:47] "HEAD /ping HTTP/1.1" 200 -
+2025-08-22 18:41:03,566 - keep_alive - INFO - 🔄 PING reçu depuis 172.31.102.162 à 18:41:03 - Cron-Job actif!
+2025-08-22 18:41:03,567 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:41:03] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:41:11,894 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 18:41:11,896 - discord.client - INFO - logging in using static token
+2025-08-22 18:41:11,904 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.102.162:5000
+2025-08-22 18:41:11,904 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-22 18:41:12,296 - discord_bot - INFO - Bot is starting up...
+2025-08-22 18:41:12,629 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 18:41:12,646 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.102.162
+2025-08-22 18:41:12,647 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:41:12] "GET / HTTP/1.1" 200 -
+2025-08-22 18:41:12,708 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.102.162
+2025-08-22 18:41:12,709 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:41:12] "GET / HTTP/1.1" 200 -
+2025-08-22 18:41:12,944 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2d6674647951569fd0f2afe4ce21dba8).
+2025-08-22 18:41:14,953 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 18:41:14,954 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 18:41:24,795 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 18:41:24,797 - discord.client - INFO - logging in using static token
+2025-08-22 18:41:24,809 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.102.162:5000
+2025-08-22 18:41:24,810 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-22 18:41:25,348 - discord_bot - INFO - Bot is starting up...
+2025-08-22 18:41:25,510 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.102.162
+2025-08-22 18:41:25,510 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:41:25] "GET / HTTP/1.1" 200 -
+2025-08-22 18:41:25,515 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.102.162
+2025-08-22 18:41:25,516 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:41:25] "GET / HTTP/1.1" 200 -
+2025-08-22 18:42:07,673 - keep_alive - INFO - 🔄 PING 🏠 INTERNE (Replit) depuis 172.31.102.162 à 18:42:07
+2025-08-22 18:42:07,673 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:42:07,673 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:42:07] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:42:12,860 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 18:42:13,254 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8c4478088b7472774c968254c4c3f461).
+2025-08-22 18:42:15,273 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 18:42:15,273 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 18:43:03,672 - keep_alive - INFO - 🔄 PING 🏠 INTERNE (Replit) depuis 172.31.102.162 à 18:43:03
+2025-08-22 18:43:03,672 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:43:03,673 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:43:03] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:44:09,873 - keep_alive - INFO - 🔄 PING 🏠 INTERNE (Replit) depuis 172.31.102.162 à 18:44:09
+2025-08-22 18:44:09,873 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:44:09,873 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:44:09] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:44:39,998 - keep_alive - INFO - 🔄 PING 🏠 INTERNE (Replit) depuis 172.31.102.162 à 18:44:39
+2025-08-22 18:44:39,998 - keep_alive - INFO -    User-Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+2025-08-22 18:44:39,999 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:44:39] "HEAD /ping HTTP/1.1" 200 -
+2025-08-22 18:45:08,315 - keep_alive - INFO - 🔄 PING 🏠 INTERNE (Replit) depuis 172.31.102.162 à 18:45:08
+2025-08-22 18:45:08,315 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:45:08,315 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:45:08] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:45:09,068 - keep_alive - INFO - 🔄 PING 🏠 INTERNE (Replit) depuis 172.31.102.162 à 18:45:09
+2025-08-22 18:45:09,069 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:45:09,069 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:45:09] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:45:51,294 - keep_alive - INFO - 🔄 PING 🏠 INTERNE (Replit) depuis 172.31.102.162 à 18:45:51
+2025-08-22 18:45:51,294 - keep_alive - INFO -    User-Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+2025-08-22 18:45:51,294 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:45:51] "HEAD /ping HTTP/1.1" 200 -
+2025-08-22 18:46:12,647 - keep_alive - INFO - 🔄 PING 🏠 INTERNE (Replit) depuis 172.31.102.162 à 18:46:12
+2025-08-22 18:46:12,648 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:46:12,648 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:46:12] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:46:24,803 - discord_bot - INFO - Keep alive ping
+2025-08-22 18:47:03,824 - keep_alive - INFO - 🔄 PING 🏠 INTERNE (Replit) depuis 172.31.102.162 à 18:47:03
+2025-08-22 18:47:03,824 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:47:03,825 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:47:03] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:48:11,155 - keep_alive - INFO - 🔄 PING 🏠 INTERNE (Replit) depuis 172.31.102.162 à 18:48:11
+2025-08-22 18:48:11,155 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:48:11,156 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:48:11] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:49:03,422 - keep_alive - INFO - 🔄 PING 🏠 INTERNE (Replit) depuis 172.31.102.162 à 18:49:03
+2025-08-22 18:49:03,422 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:49:03,423 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:49:03] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:49:45,669 - keep_alive - INFO - 🔄 PING 🏠 INTERNE (Replit) depuis 172.31.102.162 à 18:49:45
+2025-08-22 18:49:45,669 - keep_alive - INFO -    User-Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+2025-08-22 18:49:45,669 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:49:45] "HEAD /ping HTTP/1.1" 200 -
+2025-08-22 18:50:13,133 - keep_alive - INFO - 🔄 PING 🏠 INTERNE (Replit) depuis 172.31.102.162 à 18:50:13
+2025-08-22 18:50:13,133 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:50:13,133 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:50:13] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:50:17,901 - keep_alive - INFO - 🔄 PING 🏠 INTERNE (Replit) depuis 172.31.102.162 à 18:50:17
+2025-08-22 18:50:17,902 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:50:17,902 - werkzeug - INFO - 172.31.102.162 - - [22/Aug/2025 18:50:17] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:53:39,967 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 18:53:40,085 - discord.client - INFO - logging in using static token
+2025-08-22 18:53:40,108 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.97.226:5000
+2025-08-22 18:53:40,108 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-22 18:53:40,825 - discord_bot - INFO - Bot is starting up...
+2025-08-22 18:53:41,021 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.97.226
+2025-08-22 18:53:41,022 - werkzeug - INFO - 172.31.97.226 - - [22/Aug/2025 18:53:41] "GET / HTTP/1.1" 200 -
+2025-08-22 18:53:41,051 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.97.226
+2025-08-22 18:53:41,051 - werkzeug - INFO - 172.31.97.226 - - [22/Aug/2025 18:53:41] "GET / HTTP/1.1" 200 -
+2025-08-22 18:53:41,062 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 18:53:41,400 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: df6f911539a879a1d151be70117672d2).
+2025-08-22 18:53:43,436 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 18:53:43,436 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 18:54:09,744 - keep_alive - INFO - 🔄 PING 🏠 INTERNE (Replit) depuis 172.31.97.226 à 18:54:09
+2025-08-22 18:54:09,744 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:54:09,745 - werkzeug - INFO - 172.31.97.226 - - [22/Aug/2025 18:54:09] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:54:38,962 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 18:54:38,964 - discord.client - INFO - logging in using static token
+2025-08-22 18:54:38,974 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.97.226:5000
+2025-08-22 18:54:38,974 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-22 18:54:39,389 - discord_bot - INFO - Bot is starting up...
+2025-08-22 18:54:39,636 - discord_bot - INFO - Synced 4 command(s)
+2025-08-22 18:54:39,823 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.97.226
+2025-08-22 18:54:39,824 - werkzeug - INFO - 172.31.97.226 - - [22/Aug/2025 18:54:39] "GET / HTTP/1.1" 200 -
+2025-08-22 18:54:39,851 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.97.226
+2025-08-22 18:54:39,852 - werkzeug - INFO - 172.31.97.226 - - [22/Aug/2025 18:54:39] "GET / HTTP/1.1" 200 -
+2025-08-22 18:54:39,948 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 40728c01d7a7bb9148b494d661617bde).
+2025-08-22 18:54:41,957 - discord_bot - INFO - Alerte Percepteur#9724 has connected to Discord!
+2025-08-22 18:54:41,957 - discord_bot - INFO - Bot is in 1 guilds
+2025-08-22 18:54:50,545 - keep_alive - INFO - 🔄 PING 🏠 REPLIT-INTERNE depuis 172.31.97.226 à 18:54:50
+2025-08-22 18:54:50,545 - keep_alive - INFO -    User-Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+2025-08-22 18:54:50,545 - werkzeug - INFO - 172.31.97.226 - - [22/Aug/2025 18:54:50] "HEAD /ping HTTP/1.1" 200 -
+2025-08-22 18:55:04,781 - keep_alive - INFO - 🔄 PING 🕒 CRON-JOB depuis 172.31.97.226 à 18:55:04
+2025-08-22 18:55:04,781 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:55:04,781 - werkzeug - INFO - 172.31.97.226 - - [22/Aug/2025 18:55:04] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:55:04,782 - keep_alive - INFO - 🔄 PING 🕒 CRON-JOB depuis 172.31.97.226 à 18:55:04
+2025-08-22 18:55:04,782 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:55:04,783 - werkzeug - INFO - 172.31.97.226 - - [22/Aug/2025 18:55:04] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:56:11,436 - keep_alive - INFO - 🔄 PING 🕒 CRON-JOB depuis 172.31.97.226 à 18:56:11
+2025-08-22 18:56:11,436 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:56:11,436 - werkzeug - INFO - 172.31.97.226 - - [22/Aug/2025 18:56:11] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:56:49,759 - keep_alive - INFO - 🔄 PING 🏠 REPLIT-INTERNE depuis 172.31.97.226 à 18:56:49
+2025-08-22 18:56:49,759 - keep_alive - INFO -    User-Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+2025-08-22 18:56:49,759 - werkzeug - INFO - 172.31.97.226 - - [22/Aug/2025 18:56:49] "HEAD /ping HTTP/1.1" 200 -
+2025-08-22 18:57:03,611 - keep_alive - INFO - 🔄 PING 🕒 CRON-JOB depuis 172.31.97.226 à 18:57:03
+2025-08-22 18:57:03,611 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:57:03,611 - werkzeug - INFO - 172.31.97.226 - - [22/Aug/2025 18:57:03] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:58:12,952 - keep_alive - INFO - 🔄 PING 🕒 CRON-JOB depuis 172.31.97.226 à 18:58:12
+2025-08-22 18:58:12,952 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:58:12,952 - werkzeug - INFO - 172.31.97.226 - - [22/Aug/2025 18:58:12] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:58:14,054 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.97.226
+2025-08-22 18:58:14,055 - werkzeug - INFO - 172.31.97.226 - - [22/Aug/2025 18:58:14] "GET / HTTP/1.1" 200 -
+2025-08-22 18:59:03,543 - keep_alive - INFO - 🔄 PING 🕒 CRON-JOB depuis 172.31.97.226 à 18:59:03
+2025-08-22 18:59:03,543 - keep_alive - INFO -    User-Agent: Mozilla/4.0 (compatible; cron-job.org; http://cron-job.org/abuse/)
+2025-08-22 18:59:03,544 - werkzeug - INFO - 172.31.97.226 - - [22/Aug/2025 18:59:03] "GET /ping HTTP/1.1" 200 -
+2025-08-22 18:59:32,374 - keep_alive - INFO - 🏠 Page d'accueil visitée depuis 172.31.97.226
+2025-08-22 18:59:32,375 - werkzeug - INFO - 172.31.97.226 - - [22/Aug/2025 18:59:32] "GET / HTTP/1.1" 200 -
+2025-08-22 18:59:38,975 - discord_bot - INFO - Keep alive ping
